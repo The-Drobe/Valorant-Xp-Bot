@@ -4,7 +4,7 @@ Gather xp while you are sleeping.
 # Warning This is in ALPHA there will be Bugs and issues
 
 # How to use
-1. Download zip file and extract it
+1. Download zip file <a href="https://github.com/The-Drobe/Valorant-Xp-Bot/releases">here</a> and extract it
 2. Run setup.exe to tell the bot where everthing is
 3. once you have finished the set up run main.exe(it should start Valorant Automatically)
 4. enjoy
