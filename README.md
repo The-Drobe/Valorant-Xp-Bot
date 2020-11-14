@@ -17,5 +17,5 @@ Gather xp while you are sleeping.
 Create a new issue in Issues
 
 # Support Me
-Bitcoin: 1MHAjuqmNsUPubgTqJPz9v1wGEVMuU4UHq
-Ethereum: 0x066de58bA87Acd4EDDC5d68B8f54170eC04Ee77b
+Bitcoin: 1MHAjuqmNsUPubgTqJPz9v1wGEVMuU4UHq <br />
+Ethereum: 0x066de58bA87Acd4EDDC5d68B8f54170eC04Ee77b <br />
