@@ -17,3 +17,4 @@ Gather xp while you are sleeping.
 Create a new issue in Issues
 
 # Support Me
+qrencode "bitcoin:36j8C43FSftiQVjAdxzZH1GF4NAMF39k3M" -lQ -o- | display
