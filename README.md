@@ -12,6 +12,7 @@ Gather xp while you are sleeping.
 # BUGS
 1. sometimes Valorant is started as a child process instead of a parent process
 2. the pause function is not fully implemented
+3. throws "I dont know what you have done but you broke it" error on start up 3 times 
 
 # Report a BUG
 Create a new issue in Issues
