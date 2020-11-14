@@ -10,7 +10,7 @@ Gather xp while you are sleeping.
 4. enjoy
 
 # BUGS
-1. sometimes Valorant is started as a child process insted of parent
+1. sometimes Valorant is started as a child process instead of a parent process
 2. the pause function is not fully implemented
 
 # Report a BUG
