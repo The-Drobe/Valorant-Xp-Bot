@@ -1,6 +1,7 @@
 # Valorant-Xp-Bot
 Gather xp while you are sleeping.
-
+# Warning this has not been tested on valorant patch 3.05 (https://playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-3-05/) where afk detection was changes I am not responsable for any bans related to this bot 
+I am currently testing the code to see if it is still safe to do and if not I will consider changeing the code to avoid the afk detection
 # Warning This is in ALPHA there will be Bugs and issues
 
 # How to use
@@ -12,7 +13,6 @@ Gather xp while you are sleeping.
 # BUGS
 1. sometimes Valorant is started as a child process instead of a parent process
 2. the pause function is not fully implemented
-3. throws "I dont know what you have done but you broke it" error on start up 3 times 
 
 # Report a BUG
 Create a new issue in Issues
